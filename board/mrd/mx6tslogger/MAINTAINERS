@@ -1,0 +1,8 @@
+MX6TSLOGGER BOARD
+M:	Leandro Iwanski <leandro@mrd.com.au>
+S:	Maintained
+F:	board/mrd/mx6tslogger/
+F:	include/configs/mx6tslogger.h
+F:	configs/mx6dltslogger_defconfig
+F:	configs/mx6qtslogger_defconfig
+F:	configs/mx6tslogger_spl_defconfig

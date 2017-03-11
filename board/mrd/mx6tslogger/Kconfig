@@ -1,0 +1,12 @@
+if TARGET_MX6TSLOGGER
+
+config SYS_BOARD
+	default "mx6tslogger"
+
+config SYS_VENDOR
+	default "mrd"
+
+config SYS_CONFIG_NAME
+	default "mx6tslogger"
+
+endif
